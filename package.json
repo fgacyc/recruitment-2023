@@ -10,14 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@auth0/auth0-react": "^2.2.4",
     "@fullpage/react-fullpage": "^0.1.40",
+    "autoprefixer": "^10.4.19",
     "idb-keyval": "^6.2.1",
     "party-js": "^2.2.0",
+    "postcss": "^8.4.39",
     "pubsub-js": "^1.9.4",
     "react": "^18.2.0",
     "react-confirm-alert": "^3.0.6",
     "react-date-picker": "^10.5.0",
     "react-dom": "^18.2.0",
+    "react-loader-spinner": "^6.1.6",
     "react-router-dom": "^6.14.0",
     "react-transition-group": "^4.4.5",
     "swiper": "^9.4.1"

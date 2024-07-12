@@ -384,6 +384,12 @@ export default function Submission() {
             </div>
             <button
                 className="btn-submit"
+                style={{
+                    padding: "15px 0",
+                    borderRadius: "30px",
+                    fontSize:"1.125rem",
+                    fontFamily: "SF Pro Display"
+                }}
                 onClick={handleSubmit}
             >
                 Submit

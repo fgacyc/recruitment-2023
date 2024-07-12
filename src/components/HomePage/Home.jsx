@@ -70,7 +70,7 @@ export default function Home() {
                         <div className="overlay"></div>
                         <img src="/images/CYC_logo.png" alt="CYC Logo" id='cyc-logo' className='mt-45 relative' />
                         <div className='text-center padding-y-45 mb-75 relative'>
-                            <h1 style={{ color: "white", marginBottom: "30px" }}>​​加入事工基本条件</h1>
+                            <h1 style={{ color: "white", marginBottom: "30px" }}>加入事工基本条件</h1>
                             <div className='flex align-center mt-15'>
                                 <img src="/icons/tick.svg" alt="Tick" className='tick-icon' />
                                 <h6 className='FZChaoCuHei font-weight-400'>委身参加小组及聚会至少3个月</h6>
